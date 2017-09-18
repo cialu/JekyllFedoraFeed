@@ -5,4 +5,4 @@ A way to feed Fedora blog posts to Fedora Planet aggregator
 Just remember to tag your post with 'Fedora' and tu put correct data in the .planet file.
 
 More info available here:
-https://cialu.net/blog/create-fedora-feed-in-jekyll.html
+https://cialu.net/how-to-create-fedora-feed-in-jekyll/
